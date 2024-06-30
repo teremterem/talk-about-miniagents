@@ -1,0 +1,1 @@
+NOTE: If you are asked to generate a docstring, don't generate the complete copy of the relevant file. It's enough to only output few surrounding lines of the target function/class definition to give the user an idea where this docstring should be inserted.
